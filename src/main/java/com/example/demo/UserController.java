@@ -8,6 +8,6 @@ public class UserController {
 
     @GetMapping
     public String myMessage(){
-        return "Git Hub Demo!!";
+        return "Git Hub Demo Works Successfully!!";
     }
 }
